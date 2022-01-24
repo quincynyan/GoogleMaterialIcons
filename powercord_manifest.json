@@ -2,7 +2,7 @@
     "name": "Google Material Icons",
     "description": "A Powercord theme to replace most icons with Google Material Icons",
     "version": "1.0.0",
-    "author": "DavidNyan10#8581",
+    "author": [ "DavidNyan10#8581", "discord::592228909052067865" ],
     "theme": "GoogleMaterialIcons.css",
     "consent": [ "ext_listing" ],
     "license": "MIT"
