@@ -5,6 +5,7 @@ A theme made for Powercord. A Powercord theme to replace most icons with Google 
 
 ## Preview
 ![Preview](https://cdn.veeps.moe/BRwW1R.png)
+<br/>
 There are a lot more icons that changed that are not in this preview, I don't wanna screenshot every single one of them, but feel free to do so if you wanna contribute. 
 
 
