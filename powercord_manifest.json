@@ -4,6 +4,6 @@
     "version": "1.0.0",
     "author": "DavidNyan10#8581",
     "theme": "GoogleMaterialIcons.css",
-    "consent": "false",
+    "consent": [ "ext_listing" ],
     "license": "MIT"
 }
